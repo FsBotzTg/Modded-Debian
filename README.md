@@ -57,4 +57,4 @@ Modded-Debian is created and maintained by **Firos Sha Muhammad**.
 
 ## License
 
-_Add a license here (e.g. MIT) if you want others to freely use/modify this._
+[MIT](./LICENSE)
