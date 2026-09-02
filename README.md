@@ -41,7 +41,6 @@ Or run it directly with one command:
 curl -O https://raw.githubusercontent.com/FsBotzTg/Modded-Debian/main/install.sh && bash install.sh
 ```
 
-> If your default branch isn't `main`, or the script lives in a subfolder, adjust the raw URL above to match.
 
 The script will install the required Termux packages, download the Debian rootfs, and set up two launcher commands.
 
